@@ -107,6 +107,6 @@ public class JavaBasics {
         // threeAvrage(1,2,3);
         // isEven(40);
         // isPalindrome(1245421);
-        digitSum(1145);
+        // digitSum(1145);
     }
 }
